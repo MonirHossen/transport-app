@@ -1,7 +1,7 @@
 
 ## About This Project
 
-This is a Transport Application. In this project, I use the Laravel framework. for authentication, I use Laravel Passport because Laravel Passport supports OAuth2. Here users can register and Login using API and calculate transport prices based on requirements.
+This is a Transport Application. In this project, I use the Lastest Laravel 10 framework. for authentication, I use Laravel Passport because Laravel Passport supports OAuth2. Here users can register and Login using API and calculate transport prices based on requirements.
 
 
 ## Project Setup

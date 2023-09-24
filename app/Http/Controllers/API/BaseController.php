@@ -31,4 +31,13 @@ class BaseController extends Controller
         return response()->json($response, $code);
     }
 
+    public function notFoundError($message)
+    {
+    	$response = [
+            'success' => false,
+            'message' => $message,
+        ];
+        return response()->json($response, 404);
+    }
+
 }
